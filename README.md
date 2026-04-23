@@ -30,7 +30,7 @@
 
 ### 🤖 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 
 ### 🐧 OS & Tools
@@ -56,31 +56,6 @@
 ### 🔹 ML-Based Cloud Resource Prediction
 - Built using AWS SageMaker (ARIMA, LSTM)  
 - Enabled intelligent auto scaling & cost optimization  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manikanth1707&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikanth1707&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manikanth1707&theme=algolia" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manikanth1707&label=Profile%20Views&color=blue&style=flat" />
-</p>
 
 ---
 
